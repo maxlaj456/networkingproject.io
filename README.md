@@ -27,5 +27,7 @@ This lab focuses on building a functioning network
 - YAML configuration
 - DHCP configuration
 
+![Network Topology](
+
 # Status
 Planning phase
