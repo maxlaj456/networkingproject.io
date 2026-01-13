@@ -4,7 +4,7 @@
 A lab giving a insight on how I built and made a network between routers and devices work. 
 
 # Goal
-I will have 2 routers and 2 devices, one device for each router. The goal is to make it possible for the devices to reach the internet and to reach each other. 
+I will have 2 routers and 2 devices, one device for each router. The goal is to make it possible for the devices to reach the internet and to reach each other by ping.
 
 # Lab Environment
 - Linux
