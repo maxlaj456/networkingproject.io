@@ -1,19 +1,31 @@
 # Networking Lab
 
 # Overview
-A lab giving a insight on how I built and made a network between routers and devices work. 
+A lab giving a insight on how I built and made a network between routers and devices, in two different subnets, work. I made it possible for devices to reach the internet through the routers, to get all DHCP configuration to devices without manual intervention, the firewall rules only accepted ICMP traffic/SSH and it all work after a reboot with no me having to manually do changes. 
 
-# Goal
-I will have 2 routers and 2 devices, one device for each router. There are several goals with this lab. Make it possible for the devices to reach the internet and to reach each other. Firewall rules should only allow ICMP traffic and SSH to go between the networks, everything else should be dropped. Each devices should get all necessary network configuration from DHCP with no manual configuration. All configruation and services should work after reboot without manual intervention. 
+# Objectives
+- Make devices to reach the internet
+- Firewall rules should drop everything except ICMP traffic and SSH between networks
+- All devices should get all necessary configuration from DHCP with no manual configuration
+- All configuration and services should work after reboot with no manual intervention
 
 # Lab Environment
 - Linux
-- 4 virtual machines in total
+- 4 virtual machines in VirtualBox:
 - 2 routers
 - 2 devices
 
-# Scope
+# Lab Scope
 This lab focuses on building a functioning network
+
+# Key Technologies
+- VirtualBox
+- NAT
+- Iptables
+- Routing
+- IP-forwarding
+- YAML configuration
+- DHCP configuration
 
 # Status
 Planning phase
