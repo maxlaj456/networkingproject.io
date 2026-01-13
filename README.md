@@ -27,7 +27,7 @@ This lab focuses on building a functioning network
 - YAML configuration
 - DHCP configuration
 
-![Network Topology](
+![Network Topology](https://github.com/maxlaj456/networkingproject.io/blob/main/images/networktopology.drawio.png)
 
 # Status
 Planning phase
