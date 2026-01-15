@@ -9,3 +9,6 @@ IP-addresses are seperated into two internal subnets. The first one is 192.168.3
 
 ## Routing Strategy
 I choosed default routing, and set the route via routing tables. It is a more default way of setting routes. Since I knew that the firewall were only going to accept ICMP traffic between the specified subnets, I had to go with default routing to be able to make the clients reach each other. 
+
+## Network Topology
+![Net
