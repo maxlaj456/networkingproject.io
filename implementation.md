@@ -25,3 +25,18 @@ Verification focused on:
 - Internal and external connectivity
 
 ## Screenshots
+
+### Router Interfaces
+![Router Interfaces](images/images/implementation/interfaces/screenshot-interface-router.png)
+
+### NAT Configuration
+![Router 1 NAT Rules](images/images/implementation/nat/screenshot-nat_config-router1.png)
+![Router 2 NAT Rules](images/images/implementation/nat/screenshot-nat_config-router.png)
+
+### Routing Tables
+![Router 1 routing](images/images/implementation/routing/screenshot-routingtable-router1.png)
+![Router 2 routing](images/images/implementation/routing/screenshot-routingtable-router.png)
+
+### Firewall Configuration
+![Router 1 Firewall](images/images/implementation/firewall/screenshot-fw_config-router1.png)
+![Router 2 Firewall](images/images/implementation/firewall/screenshot-fw_config-router.png)
