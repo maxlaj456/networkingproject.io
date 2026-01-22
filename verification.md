@@ -20,3 +20,7 @@ This document demonstrates that the lab functions as intended.
 
 ## Screenshots
 
+### Ping Internal Hosts
+
+
+### Ping External Destionations
