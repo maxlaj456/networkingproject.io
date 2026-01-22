@@ -17,3 +17,6 @@ This document demonstrates that the lab functions as intended.
 - Misconfigured netplan files can silently override settings
 - Firewall rules must explicitly allow forwarding traffic
 - NAT configuration is essential for client Internet access
+
+## Screenshots
+
